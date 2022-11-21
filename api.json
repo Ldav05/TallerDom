@@ -1,0 +1,123 @@
+[
+    {
+      "name": "Koromon",
+      "img": "https://digimon.shadowsmith.com/img/koromon.jpg",
+      "price": 100,
+      "id": 1
+    },
+    {
+      "name": "Tsunomon",
+      "img": "https://digimon.shadowsmith.com/img/tsunomon.jpg",
+      "price": 250,
+      "id": 2
+    },
+    {
+      "name": "Yokomon",
+      "img": "https://digimon.shadowsmith.com/img/yokomon.jpg",
+      "price": 612,
+      "id": 3
+      
+    },
+    {
+      "name": "Motimon",
+      "img": "https://digimon.shadowsmith.com/img/motimon.jpg",
+      "price": 641,
+      "id": 4
+    },
+    {
+      "name": "Tanemon",
+      "img": "https://digimon.shadowsmith.com/img/tanemon.jpg",
+      "price": 965,
+      "id": 5
+    },
+    {
+      "name": "Bukamon",
+      "img": "https://digimon.shadowsmith.com/img/bukamon.jpg",
+      "price": 125,
+      "id": 6
+    },
+    {
+      "name": "Tokomon",
+      "img": "https://digimon.shadowsmith.com/img/tokomon.jpg",
+      "price": 614,
+      "id": 7
+    },
+    {
+      "name": "Agumon",
+      "img": "https://digimon.shadowsmith.com/img/agumon.jpg",
+      "price": 365,
+      "id": 8
+    },
+    {
+      "name": "Gabumon",
+      "img": "https://digimon.shadowsmith.com/img/gabumon.jpg",
+      "price": 245,
+      "id": 9
+    },
+    {
+      "name": "Biyomon",
+      "img": "https://digimon.shadowsmith.com/img/biyomon.jpg",
+      "price": 415,
+      "id": 10
+    },
+    {
+      "name": "Tentomon",
+      "img": "https://digimon.shadowsmith.com/img/tentomon.jpg",
+      "price": 256,
+      "id": 11
+    },
+    {
+      "name": "Palmon",
+      "img": "https://digimon.shadowsmith.com/img/palmon.jpg",
+      "price": 236,
+      "id": 12
+    },
+    {
+      "name": "Gomamon",
+      "img": "https://digimon.shadowsmith.com/img/gomamon.jpg",
+      "price": 165,
+      "id": 13
+    },
+    {
+      "name": "Patamon",
+      "img": "https://digimon.shadowsmith.com/img/patamon.jpg",
+      "price": 315,
+      "id": 14
+    },
+    {
+      "name": "Kuwagamon",
+      "img": "https://digimon.shadowsmith.com/img/kuwagamon.jpg",
+      "price": 1525,
+      "id": 15
+    },
+    {
+      "name": "Greymon",
+      "img": "https://digimon.shadowsmith.com/img/greymon.jpg",
+      "price": 1365,
+      "id": 16
+    },
+    {
+      "name": "Shellmon",
+      "img": "https://digimon.shadowsmith.com/img/shellmon.jpg",
+      "price": 1425,
+      "id": 17
+    },
+    {
+      "name": "Garurumon",
+      "img": "https://digimon.shadowsmith.com/img/garurumon.jpg",
+      "price": 1663,
+      "id": 18
+    },
+    {
+      "name": "Seadramon",
+      "img": "https://digimon.shadowsmith.com/img/seadramon.jpg",
+      "price": 2000,
+      "id": 19
+    },
+    {
+      "name": "Monochromon",
+      "img": "https://digimon.shadowsmith.com/img/monochromon.jpg",
+      "price": 3015,
+      "id": 20
+    }
+]
