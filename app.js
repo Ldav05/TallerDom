@@ -20,7 +20,8 @@ const fetchData = async () => {
 const Cards = data => {
     data.forEach(element => {
         templateCard.querySelector('h5').textContent = element.name
-
+        templateCard.querySelector('p').textContent = element.price
+        templateCard.querySelector('img').setAttribute("src", element.img)
         const clone = templateCard.cloneNode(true)
         fragment.appendChild(clone)
     });
