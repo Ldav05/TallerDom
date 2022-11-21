@@ -107,17 +107,5 @@
       "img": "https://digimon.shadowsmith.com/img/garurumon.jpg",
       "price": 1663,
       "id": 18
-    },
-    {
-      "name": "Seadramon",
-      "img": "https://digimon.shadowsmith.com/img/seadramon.jpg",
-      "price": 2000,
-      "id": 19
-    },
-    {
-      "name": "Monochromon",
-      "img": "https://digimon.shadowsmith.com/img/monochromon.jpg",
-      "price": 3015,
-      "id": 20
     }
 ]
