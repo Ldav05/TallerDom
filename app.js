@@ -52,4 +52,19 @@ const setCar = object => {
     if(car.hasOwnProperty(product.id)){
         product.amount = car[product.id].amount + 1
     }
+    drawCar()
+}
+const drawCar = () => {
+    Object.values(car).forEach(product => {
+        templateCarrito.querySelector('th').textContent = product.id
+        templateCarrito.querySelectorAll('td')[0].textContent = product.name
+        templateCarrito.querySelectorAll('td')[1].textContent = product.amount
+        templateCarrito.querySelector('.btn-info').dataset.id = product.id 
+        templateCarrito.querySelector('.btn-danger').dataset.id = product.id 
+        templateCarrito.querySelector('span').textContent = product.amount * product.price
+
+        const clone = templateCarrito.cloneNode(true)
+        fragment.appendChild(clone)
+    });
+    items.appendChild(fragment)
 }
