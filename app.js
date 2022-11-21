@@ -1,6 +1,7 @@
+const cards = document.getElementById('cards')
 const items = document.getElementById('items')
 const templateCard = document.getElementById('template-card').content
-const fragment = document.createDocumentFragment()
+const templateCarrito = document.getElementById('template-carrito').content
 let car = {}
 
 document.addEventListener('DOMContentLoaded', () =>{
@@ -55,6 +56,7 @@ const setCar = object => {
     drawCar()
 }
 const drawCar = () => {
+    items.innerHTML = ''
     Object.values(car).forEach(product => {
         templateCarrito.querySelector('th').textContent = product.id
         templateCarrito.querySelectorAll('td')[0].textContent = product.name
